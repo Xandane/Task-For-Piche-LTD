@@ -1,5 +1,4 @@
-flask
-flask-bcrypt
-pyjwt
-flask-limiter
-gunicorn
+Flask==2.3.4
+Flask-Bcrypt==1.1.1
+Flask-Limiter==2.9.1
+PyJWT==2.8.0
